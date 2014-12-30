@@ -1,3 +1,4 @@
+name             "google-chrome"
 maintainer       "Justin Huff"
 maintainer_email "jjhuff@mspin.net"
 license          "Apache 2.0"
